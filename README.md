@@ -1,4 +1,4 @@
-# Johnny Vargas - CYF
+# Johnny - CYF
 
 Test site created on CodePen for CYF!
 
